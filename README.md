@@ -9,9 +9,9 @@ Easy to extend with more questions
 # Installation
 ## Clone the repository:
 
-'''bash
+```bash
 git clone https://github.com/blueskylearner/
-'''
+```
 
 # Usage
 Run the script using Python:
