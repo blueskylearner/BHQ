@@ -8,7 +8,11 @@ Score calculation
 Easy to extend with more questions
 # Installation
 ## Clone the repository:
+
+'''bash
 git clone https://github.com/blueskylearner/
+'''
+
 # Usage
 Run the script using Python:
 python British_History_Quiz.py
